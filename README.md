@@ -1,24 +1,7 @@
-# README
+# todos-api (RESTful JSON API with Rails 6)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This repo is the source companion for the @scotch-io tutorial series [Build a RESTful JSON API with Rails 6](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [Part One](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-one)
+* [Part Two](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-two)
+* [Part Three](https://scotch.io/tutorials/build-a-restful-json-api-with-rails-5-part-three)
